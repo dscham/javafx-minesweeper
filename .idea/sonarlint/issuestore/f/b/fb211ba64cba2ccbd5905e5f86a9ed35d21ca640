@@ -1,0 +1,8 @@
+
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ãáß­8à·ƒÛÏ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨î¡·8æÖıÚÏ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ŠÔ‹øÿÿÿÿ8ì£ÿÚÏ.
+Q
+java:S1066$"/Merge this if statement with the enclosing one.(•˜¸¼şÿÿÿÿ8àç¦ÕÏ.
+o
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ïì˜Ô8àç¦ÕÏ.

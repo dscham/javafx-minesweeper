@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/ide-settings/org.eclipse.jdt.core.prefs" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="disabledFileTypes" value="html; js; css; sccs; styl;" />
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="id" value="1532525772844" />
+        <option name="importOrder" value="java;javax;org;com;de.kisters;de" />
+        <option name="name" value="energy-sales-manager" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/git/sales-manager/energy-sales-manager.core/.settings/org.eclipse.jdt.core.prefs" />
+      </Settings>
+    </option>
+  </component>
+</project>
